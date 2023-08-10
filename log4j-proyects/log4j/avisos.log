@@ -1,0 +1,12 @@
+[2023-08-02 12:50:15] [ INFO ] [class Test:27] Empezamos a dividir: 1/0
+[2023-08-02 12:50:15] [ ERROR] [class Test:32] Se produjo un error al dividir: 
+java.lang.ArithmeticException: / by zero
+	at Calculadora.dividir(Calculadora.java:30)
+	at Test.main(Test.java:13)
+[2023-08-02 12:53:33] [ INFO ] [class Test:27] Empezamos a dividir: 1/0
+[2023-08-02 12:53:33] [ ERROR] [class Test:32] Se produjo un error al dividir: 
+java.lang.ArithmeticException: / by zero
+	at Calculadora.dividir(Calculadora.java:30)
+	at Test.main(Test.java:13)
+[2023-08-02 12:53:33] [ INFO ] [class Test:27] Empezamos a dividir: 2/3
+[2023-08-02 12:53:33] [ DEBUG] [class Test:36] Terminamos de dividir con exito

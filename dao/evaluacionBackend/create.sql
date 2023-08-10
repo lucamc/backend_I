@@ -1,0 +1,1 @@
+create table IF NOT EXISTS odontologos(id INT PRIMARY KEY AUTO_INCREMENT, matricula varchar(255), nombre varchar(255), apellido varchar(255));
